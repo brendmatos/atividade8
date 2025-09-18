@@ -18,7 +18,7 @@ let alunos = [ //array
   {
         nome: "Wesley",
         nota1: 8.0,
-        notas2: 8.0
+        nota2: 7.0
     }
 ]
   
